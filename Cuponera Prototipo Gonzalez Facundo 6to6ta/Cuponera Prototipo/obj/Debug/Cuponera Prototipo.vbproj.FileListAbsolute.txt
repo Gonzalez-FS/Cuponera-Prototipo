@@ -1,0 +1,19 @@
+E:\Cuponera Prototipo\Cuponera Prototipo\bin\Debug\Cuponera Prototipo.exe.config
+E:\Cuponera Prototipo\Cuponera Prototipo\bin\Debug\Cuponera Prototipo.exe
+E:\Cuponera Prototipo\Cuponera Prototipo\bin\Debug\Cuponera Prototipo.pdb
+E:\Cuponera Prototipo\Cuponera Prototipo\bin\Debug\Cuponera Prototipo.xml
+E:\Cuponera Prototipo\Cuponera Prototipo\obj\Debug\Cuponera Prototipo.vbproj.AssemblyReference.cache
+E:\Cuponera Prototipo\Cuponera Prototipo\obj\Debug\Cuponera_Prototipo.Form1.resources
+E:\Cuponera Prototipo\Cuponera Prototipo\obj\Debug\Cuponera_Prototipo.Form_clientes.resources
+E:\Cuponera Prototipo\Cuponera Prototipo\obj\Debug\Cuponera_Prototipo.Form_ingreso.resources
+E:\Cuponera Prototipo\Cuponera Prototipo\obj\Debug\Cuponera_Prototipo.Form_menu.resources
+E:\Cuponera Prototipo\Cuponera Prototipo\obj\Debug\Cuponera_Prototipo.Form_ofertas.resources
+E:\Cuponera Prototipo\Cuponera Prototipo\obj\Debug\Cuponera_Prototipo.Form_registro.resources
+E:\Cuponera Prototipo\Cuponera Prototipo\obj\Debug\Cuponera_Prototipo.Form_tiendas.resources
+E:\Cuponera Prototipo\Cuponera Prototipo\obj\Debug\Cuponera_Prototipo.Resources.resources
+E:\Cuponera Prototipo\Cuponera Prototipo\obj\Debug\Cuponera Prototipo.vbproj.GenerateResource.cache
+E:\Cuponera Prototipo\Cuponera Prototipo\obj\Debug\Cuponera Prototipo.vbproj.CoreCompileInputs.cache
+E:\Cuponera Prototipo\Cuponera Prototipo\obj\Debug\Cuponera Prototipo.exe
+E:\Cuponera Prototipo\Cuponera Prototipo\obj\Debug\Cuponera Prototipo.xml
+E:\Cuponera Prototipo\Cuponera Prototipo\obj\Debug\Cuponera Prototipo.pdb
+E:\Cuponera Prototipo\Cuponera Prototipo\obj\Debug\Cuponera_Prototipo.Form_comprar.resources

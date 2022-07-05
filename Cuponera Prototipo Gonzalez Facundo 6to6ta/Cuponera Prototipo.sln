@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cuponera Prototipo", "Cuponera Prototipo\Cuponera Prototipo.vbproj", "{61507513-7DF8-4DA4-B33B-5A3CF6D60634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61507513-7DF8-4DA4-B33B-5A3CF6D60634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61507513-7DF8-4DA4-B33B-5A3CF6D60634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61507513-7DF8-4DA4-B33B-5A3CF6D60634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61507513-7DF8-4DA4-B33B-5A3CF6D60634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B900700-DD2E-436B-B8D8-74EB7017BEFE}
+	EndGlobalSection
+EndGlobal
